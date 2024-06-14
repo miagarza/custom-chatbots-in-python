@@ -1,0 +1,58 @@
+{
+  "database": [ //list name, 3 people in data set
+    {
+      "Name": "John",
+      "Age": "13",
+      "Favorite Color": "Yellow",
+    },
+    {
+      "City": "Washington D.C",
+      "Cost": "Cheaper",
+      "Type_of_area": "Outdoors",
+      "Spots_1": "Museums",
+      "Spots_2": "Historical Sights",
+      "Location": "East Coast",
+      "Weather": "Cold",
+    },
+    {
+      "City": "New York City",
+      "Cost": "Expensive",
+      "Type_of_area": "City",
+      "Spots_1": "Sightseeing",
+      "Spots_2": "Shopping",
+      "Location": "East Coast",
+      "Weather": "Cold",
+    },
+    {
+      "City": "Los Angeles",
+      "Cost": "Expensive",
+      "Type_of_area": "Outdoors and Indoors",
+      "Spots_1": "Theme Parks",
+      "Spots_2": "Hiking",
+      "Location": "West Coast",
+      "Weather": "Moderate temperature",
+    },
+    {
+      "City": "San Francisco",
+      "Cost": "Moderately Priced",
+      "Type_of_area": "Outdoors",
+      "Spots_1": "National Parks",
+      "Spots_2": "Sightseeing",
+      "Location": "West Coast",
+      "Weather": "Moderate Temperature",
+    },
+    {
+      "City": "Miami",
+      "Cost": "Moderately Priced",
+      "Type_of_area": "Beach",
+      "Spots_1": "Swimming",
+      "Spots_2": "Aquariums",
+      "Location": "Coast",
+      "Weather": "Hot",
+    }
+  ]
+}
+//curly braces at start and end hold data
+//square brackers indicate what data will be in the list
+//each block should have the same number of keys, they are each assgined a value
+
